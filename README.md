@@ -1,5 +1,3 @@
-I am currently developing my skills as a data analyst, working on a variety of projects utilising real world day. 
-
 #### Tools
 I use these tools to create 100% data-driven, innovative insights using big data.
 - Excel, Tableau, Python

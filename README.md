@@ -2,13 +2,8 @@ I am currently developing my skills as a data analyst, working on a variety of p
 
 #### Tools
 I use these tools to create 100% data-driven, innovative insights using big data.
-- Excel
-- Tableau
-- Python
-  - pandas
-  - scikit Learn
-  - matplotlib
-  - seaborn
+- Excel, Tableau, Python
+- pandas, scikit learn, seaborn
     
 #### Qualifications
 Machine Learining and AI Bootcamp @ Gatehead College
@@ -17,10 +12,6 @@ Machine Learining and AI Bootcamp @ Gatehead College
 
 #### Previous Work Experience
 - Bulk Oil Buying Scheme (Business Support Manager)\
-Used membership data to look for membership and buying patterns within the region, which helped pinpoint areas that could be targeted for new members. I generated visualisation for monitoring the scheme, which were used to communicate the scheme’s performance internally and to external stakeholders.
-
+Used membership data to look for membership and buying patterns within the region, which helped pinpoint areas that could be targeted for new members. 
 - Rock Climbing Centre (Centre Manager)\
-While planning the opening of a new centre, I utilised the large membership and attendance dataset to plan opening times and staff levels, to maximise efficiency and footfall.
-
-
-
+I utilised a large membership and attendance dataset to plan opening times and staff levels, to maximise efficiency and footfall.

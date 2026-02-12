@@ -3,8 +3,8 @@ I use these tools to create 100% data-driven, innovative insights using big data
 - Excel, Tableau, Python
 - pandas, scikit learn, seaborn
     
-#### Qualifications  
-Machine Learining and AI Bootcamp @ Gatehead College
+#### Qualifications 
+Machine Learining and AI Bootcamp @ Gatehead College May-August 2025
 - Core Machine Learning concepts and techniques: supervised and unsupervised learning
 - Completed an end-to-end Machine Learning project
 
